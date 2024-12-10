@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **[E-BUISNESS AFRIQUE](https://ebusinessafrique.com/)**
+
  
  🌱 I’m currently learning **Flutter and React Native**
 
